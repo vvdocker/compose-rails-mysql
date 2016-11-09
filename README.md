@@ -76,6 +76,6 @@ volumes:
 ```
 
 ## custom
-- rails[vvdocker/solo-rails](https://github.com/vvdocker/solo-rails)
-- mysql[vvdocker/solo-mysql](https://github.com/vvdocker/solo-mysql)
+- rails -> [vvdocker/solo-rails](https://github.com/vvdocker/solo-rails)
+- mysql -> [vvdocker/solo-mysql](https://github.com/vvdocker/solo-mysql)
 
